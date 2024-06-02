@@ -1,0 +1,5 @@
+fastapi
+langchain-community
+langchain-openai
+langchain
+faiss-cpu
